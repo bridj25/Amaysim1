@@ -1,6 +1,6 @@
 Installing Selenium
 ----------
-- Install pip first if needed obviously (google is your friend here)
+- Install pip first
 - pip install -U selenium
 
 

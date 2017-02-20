@@ -20,7 +20,7 @@ python run.py
 
 To only run one test
 ```
-python run.py --test "example_a.py"
+python run.py --test "MySettingsPage_ElementValidation.py"
 ````
 To see more options
 ```

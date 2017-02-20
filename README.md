@@ -17,10 +17,7 @@ To run all tests on Firefox
 ```
 python run.py
 ```
-To override the base url you set in run.py
-```
-python run.py --base_url "http://google.com"
-````
+
 To only run one test
 ```
 python run.py --test "example_a.py"
